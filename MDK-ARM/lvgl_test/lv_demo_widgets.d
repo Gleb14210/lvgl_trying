@@ -1,0 +1,12 @@
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\lv_demo_widgets.c
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../lv_examples.h
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../src/lv_ex_get_started/lv_ex_get_started.h
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../src/lv_ex_style/lv_ex_style.h
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../src/lv_ex_widgets/lv_ex_widgets.h
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../src/lv_demo_widgets/lv_demo_widgets.h
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../src/lv_demo_benchmark/lv_demo_benchmark.h
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../src/lv_demo_stress/lv_demo_stress.h
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../src/lv_demo_keypad_encoder/lv_demo_keypad_encoder.h
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../src/lv_demo_printer/lv_demo_printer.h
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../src/lv_demo_printer/../../lv_examples.h
+lvgl_test\lv_demo_widgets.o: ..\lv_examples-master\src\lv_demo_widgets\../../src/lv_demo_music/lv_demo_music.h
